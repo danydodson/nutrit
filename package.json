@@ -4,9 +4,10 @@
   "description": "forkify project",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development",
+    "devstart": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --mode development --open"
+    "dev": "webpack-dev-server --mode development --open",
+    "start": "webpack --mode production"
   },
   "author": "Jonas Schmedtmann",
   "license": "ISC",
