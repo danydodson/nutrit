@@ -1,5 +1,4 @@
 import axios from 'axios';
-//import { key, proxy } from '../config';
 import { key, proxy } from '../heroku';
 
 export default class Search {
