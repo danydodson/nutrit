@@ -24,5 +24,8 @@
     "babel-polyfill": "^6.26.0",
     "fractional": "^1.0.0",
     "uniqid": "^4.1.1"
+  },
+  "engines": {
+    "node": "11.12.0"
   }
 }
